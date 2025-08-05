@@ -29,5 +29,5 @@ This project performs Exploratory Data Analysis (EDA) on the Netflix titles data
 - Python (Pandas, Matplotlib, Seaborn)
 - Jupyter Notebook
 
-## 📌 Conclusion
+## Conclusion
 The EDA provides insights into the growth of Netflix content over the years, content type distribution, and user-preferred ratings.
